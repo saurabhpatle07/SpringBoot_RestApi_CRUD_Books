@@ -11,6 +11,7 @@ This project is a backend application built using Spring Boot that provides REST
 
 ## Technologies Used
 
+- **Java**: Core programming language used for backend development.
 - **Spring Boot**: Provides a framework for building production-ready Spring-based applications.
 - **Spring Boot Web**: Offers features for building web applications with Spring Boot.
 - **Spring Data JPA**: Simplifies data access layer implementation and provides support for the JPA (Java Persistence API).
